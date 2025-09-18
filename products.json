@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "title": "Apple Watch Series 7",
+      "price": "$599",
+      "image": "https://flowbite.com/docs/images/products/apple-watch.png",
+      "href": "#"
+    },
+    {
+      "title": "iPhone 14 Pro",
+      "price": "$999",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/e-commerce/imac-front.svg",
+      "href": "#"
+    },
+    {
+      "title": "AirPods Pro (2nd Gen)",
+      "price": "$249",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/e-commerce/apple-watch-light.svg",
+      "href": "#"
+    },
+    {
+      "title": "Orashare OH20pro Powerbank",
+      "price": "₱759.00",
+      "image": "https://raw.githubusercontent.com/kymiii/test/refs/heads/main/1000008664-removebg-preview.png",
+      "href": "https://vt.tiktok.com/ZSHnqAqadRWuG-cFsS0/",
+      "varieties": [
+        {
+          "label": "10000mAh",
+          "price": "₱368.05",
+          "image": "https://raw.githubusercontent.com/kymiii/test/refs/heads/main/1000008670-removebg-preview.png",
+          "href": "https://vt.tiktok.com/ZSHnqAoqVc7eu-KMG5H/"
+        },
+        {
+          "label": "20000mAh",
+          "price": "₱759.00",
+          "image": "https://raw.githubusercontent.com/kymiii/test/refs/heads/main/1000008664-removebg-preview.png",
+          "href": "https://vt.tiktok.com/ZSHnqAqadRWuG-cFsS0/"
+        },
+        {
+          "label": "30000mAh",
+          "price": "₱1362",
+          "image": "https://raw.githubusercontent.com/kymiii/test/refs/heads/main/1000008668-removebg-preview.png",
+          "href": "https://vt.tiktok.com/ZSHnqD2Q9e6wg-vMfwD/"
+        }
+      ],
+      "defaultVariant": 1
+    },
+    {
+      "title": "iPad Air",
+      "price": "$599",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/e-commerce/iphone-light.svg",
+      "href": "#"
+    },
+    {
+      "title": "MacBook Air M2",
+      "price": "$1199",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/e-commerce/macbook-pro-light.svg",
+      "href": "#"
+    }
+  ]
+}
